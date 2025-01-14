@@ -8,6 +8,6 @@ CANable USB-CAN adapter на базе модуля Starline 2CAN Мастер
 
 Ничем выдающимся модуль Starline 2CAN не обладает и цена на Авито стала значительно выше подобных аналогов с Али. Например, Makerbase CANable USB-CAN (MKS CANable) на базе STM32G431C8T6 и тп.
 
-## candleLight_gsusb
+## candleLight_fw
 
 Подходит для работы с [TOSUN TSMaster](https://github.com/TOSUN-Shanghai/TSMaster).
